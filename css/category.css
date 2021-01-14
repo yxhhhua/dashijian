@@ -1,0 +1,15 @@
+body,
+html {
+    height: 100%;
+}
+
+body {
+    padding: 20px;
+    background-color: #f1f2f5;
+}
+
+.layui-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
